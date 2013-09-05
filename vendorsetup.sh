@@ -1,3 +1,5 @@
+add_lunch_combo aokp_geeb-userdebug
+add_lunch_combo aokp_geespr-userdebug
 add_lunch_combo aokp_mako-userdebug
 add_lunch_combo aokp_maguro-userdebug
 add_lunch_combo aokp_toro-userdebug

@@ -1,4 +1,6 @@
 PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/geeb.mk \
+    $(LOCAL_DIR)/geespr.mk \
     $(LOCAL_DIR)/a510.mk \
     $(LOCAL_DIR)/d2att.mk \
     $(LOCAL_DIR)/d2tmo.mk \
